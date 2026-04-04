@@ -1,15 +1,43 @@
-<h1 align="center">안녕하세요 👋, 저는 김태우입니다.</h1>
-<h3 align="center">ㅅㄷㄴㅅ</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e83dd&height=250&section=header&text=HELLO!&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitehead&label=Profile%20views&color=0e75b6&style=flat" alt="smitehead" /> </p>
+<br>
 
-<h3 align="left">저와 연결하세요:</h3>
-<p align="left">
-</p>
+## 👨‍💻 About Me
+- 🎓 **경남대학교 컴퓨터공학부**에 재학 중이며, 끊임없이 고민하고 성장하는 개발자를 꿈꿉니다.
+- 💻 **웹/모바일 풀스택 개발**에 주력하고 있으며, 현재 Server-Sent Events(SSE)를 활용한 **실시간 양방향 경매 거래 플랫폼**을 구축하고 있습니다.
+- 🏋️‍♂️ 매일 아침 2시간씩 운동하며 코딩 체력을 기르고, 머리가 복잡할 땐 김치찌개나 수육을 요리하며 리프레시합니다.
 
-<h3 align="left">언어 및 도구:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img <a> ...
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitehead&show_icons=true&locale=en&layout=compact" alt="smitehead" /></p>
+## 🛠️ Tech Stacks
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=smitehead&show_icons=true&locale=en" alt="smitehead" /></p>
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+
+### 🔧 DevOps & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+
+<br>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smitehead&show_icons=true&theme=transparent&title_color=0e83dd&text_color=000000&bg_color=ffffff&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitehead&layout=compact&theme=transparent&title_color=0e83dd&text_color=000000&bg_color=ffffff&hide_border=true" height="165px"/>
+</div>
+
+<br>
+
+## 📬 Contact me
+<div align="center">
+  <a href="https://velog.io/@banana32/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+  <a href="mailto:당신의이메일@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</div>
