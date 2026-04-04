@@ -1,8 +1,6 @@
-
-
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0e83dd&height=240&text=HELLOW&animation=fadeIn&fontColor=000000&fontSize=50" />
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e83dd&height=250&section=header&text=HELLO!&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%" />
+</div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 내용</li> </div> 
