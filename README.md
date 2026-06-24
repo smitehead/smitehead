@@ -6,8 +6,8 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
   <h3>풀스택 개발자 김태우입니다</h3>
   <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
-    시스템 파이프라인 및 아키텍처 설계부터<br/> 
-    React와 Spring Boot를 기반으로 웹을 구현하며, 자동 배포(CI/CD) 및 AWS 환경까지 다루는 풀스택 개발자입니다.
+    시스템 파이프라인 및 아키텍처 설계부터 
+    React와 Spring Boot를 기반으로 웹을 구현하며, <br/>자동 배포(CI/CD) 및 AWS 환경까지 다루는 풀스택 개발자입니다.
   </div>  
 </div>
 
