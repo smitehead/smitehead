@@ -3,7 +3,7 @@
 </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 내용</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 풀스택 개발자 김태우입니다<br/> 시스템 파이프라인 설계 및 아키텍쳐 설계와 구현 부터 react와 spring boot를 기반으로 작동하는 웹을 만들며 자동 배포와 aws까지 사용가능한 풀스택 개발자입니다 </li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
