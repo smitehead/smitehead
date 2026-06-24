@@ -5,7 +5,7 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
   <!-- 중앙 정렬 및 h2 태그로 크기 조정 -->
-  <h2 align="center">풀스택 개발자 김태우입니다</h2>
+  <h2 align="center">풀스택 개발자 김태우입니다</h2><br/>
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
     시스템 파이프라인 설계 및 아키텍쳐 설계와 구현부터<br/> 
     React와 Spring Boot를 기반으로 작동하는 웹을 만들며 자동 배포와 AWS까지 사용 가능한 풀스택 개발자입니다.
