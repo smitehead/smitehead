@@ -3,11 +3,11 @@
 </div>
 
 <div align="center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
-  <h3>"원리를 탐구하고 수치로 증명하는 풀스택 개발자 김태우입니다."</h3>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">간단한 자기소개 </h2>  
+  <h3> 풀스택 개발자 김태우입니다.</h3>
   <div style="font-weight: 500; font-size: 15px; color: #282d33; line-height: 1.6;"> 
     시스템 파이프라인 및 아키텍처 설계부터 React와 Spring Boot 기반의 웹 구현,<br/>
-    그리고 CI/CD 자동 배포와 AWS 인프라 구축까지 서비스의 시작과 끝을 책임질 수 있습니다.
+    그리고 CI/CD 자동 배포와 AWS 인프라 구축까지 서비스의 시작과 끝까지 구현 가능합니다.
   </div>  
 </div>
 
@@ -36,8 +36,7 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Portfolio </h2>
   <br/>
-  <b>[김태우_포트폴리오.pdf]</b><br/>
-  <sub>자세한 프로젝트 아키텍처 및 트러블 슈팅 경험을 담았습니다.</sub>
+  <b>[포트폴리오]</b><br/>
   <br/><br/>
   <!-- PDF 파일이 레포지토리 루트에 portfolio.pdf 로 올라가 있어야 작동합니다 -->
   <a href="./portfolio.pdf">
